@@ -1,0 +1,18 @@
+{
+  "name": "saas-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "serve -s"
+  },
+  "private": true,
+  "dependencies": {
+    "@abp/ng.core": "^9.3.1",
+    "@angular/core": "^20.2.1",
+    "serve": "^14.2.4"
+  },
+  "devDependencies": {
+    "@abp/ng.schematics": "^9.3.1"
+  }
+}
